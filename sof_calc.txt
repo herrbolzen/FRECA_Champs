@@ -1,0 +1,136 @@
+2025 WAS NOT INCLUDED IN THESE RATING
+WILL DO WHEN F2 IS CONCLUDED
+
+
+# Find a formula to calculate strength of field
+#---------------------------------------------------------------------------------------------------------
+# Idea:
+# Super License Points
+# Randoms get 1 point
+#---------------------------------------------------------------------------------------------------------------
+Legende: x => no SL Tracker available
+
+2019 Frederik Vesti
+
+Not Randoms:
+xOlli Caldwell = 7 + 1 + 7 + 5 = 20
+xEnzo Fittipaldi = 7+20+6 = 33
+xNiko Kari = 12+2+2= 16
+xJake Hughes = 12+5+5= 22
+xIgor Fraga = 10+15+18 = 43
+xDan Ticktum = 1+2+25+1+30= 59
+xJoey Mawson = 12+7= 19
+xSophia Flörsch = 3
+xD. Schumacher = 10 + 10
+xLirim Zendeli = 12+5+5 = 22
+xMatteo Nannini = 12
+M Siebert = 2
+
+Randoms: 7x1 = 7 SOF Points
+
+SOF = 271+7 = 278
+---------------------------------------------------------------------------------------------------------
+2020, Gianluca Petecof, 4, 14, 24,
+2021, Gregoire Saucy, 8, 10, 20,
+2022, Dino Beganovigit push -u origin mainch, 4, 12, 20,
+2023, Kimi Antonelli, 5, 11, 20,
+2024, Rafael Camara, 7, 12, 20,
+---------------------------------------------------------------------------------------------------------
+2020 PETECOF
+Not Randoms:
+Arthur Leclerc = 3+7+20+2+9+4 = 45
+Oliver Rasmussen = 2+6+15 = 23
+P. Pasma = 10
+P. Chovet = 7
+K. Lappalainen = 5
+D. Hauger = 27+30+3+6+3 = 69
+J. Vips = 12+3+2+15+15+2+10= 45+4+10 = 59
+J. Chadwick = 17
+Matteo Nannini = 12
+
+Randoms = 8
+
+SOF = 255
+---------------------------------------------------------------------------------------------------------
+2021 SAUCY
+Hadrien David = 12+1+1+7+10 = 31
+Paul Aron = 2+7+1+15+2+40+20 = 87
+Zane Maloney = 12+1+2+25+40+3 = 83
+Isack Hadjar = 1+7+15+40 = 63
+Franco Colapinto = 12+15+5+15+3+4 = 54
+Gabriele Mini = 1+12+20+3+10+25+7= 78
+Michael Belov = 10+3+2 = 15
+Dino Beganovich = 7+5+6+25+9+9= 61
+Mari Boya = 10+6+7+6= 29
+Gabriel Bortoleto = 3+5+40+30= 78
+Kas Haverkort = 12+17 = 29
+Oliver Goethe = 3+15+5+5= 28
+E Barrichello =
+
+19 randoms
+
+SOF = 655
+---------------------------------------------------------------------------------------------------------
+2022 Beganovich
+Gabriele Mini = 78
+Paul Aron = 87
+Hadrien David = 31
+Kas Haverkort = 29
+Gabriel Bortoleto = 78
+Michael Belov = 15
+Leonardo Fornaroli = 3+2+30= 35
+Josh Dufek = 8+5+2= 15
+Mari Boya = 29
+Sebastian Montoya = 5+3 = 8
+Joshua Dürksen = 10+2+2+3 = 17
+Tim Tramnitz = 25+15+3 = 42
+Sami Meguetounif = 5+1+5 = 11
+Roman Bilinski = 18
+Laurens Van Hoepen = 5
+Noel Leon = 24+15+2 = 41
+Matias Zagazeta = 10
+
+15 Randoms
+
+SOF = 555
+---------------------------------------------------------------------------------------------------------
+2023 Antonelli
+
+Martinius Stenshorne = 20+2= 22
+Tim Tramnitz = 42
+Kas Haverkort = 29
+Rafael Camara = 24+12+12+25+7 = 70
+Alessandro Giusti = 14+15= 29
+Sami Meguetounif = 11
+Laurens van Hoepen = 5
+Josh Dufek = 15
+Joshua Dürksen = 17
+Michael Belov = 15
+Roman Bilinski = 18
+Charlie Wurz = 18+18+3= 39
+Matias Zagazeta = 10
+
+Randoms = 17
+SOF = 339
+
+---------------------------------------------------------------------------------------------------------
+2024 Camara
+
+James Wharton = 9+27+24 = 60
+Tuka Tapponen = 16+33 = 49
+Alesandro Giusti = 29
+Brando Badoer = 18+17 = 35
+Noah Stromsted = 11+5 = 16
+Evan Giltaire = 15
+Pedro Clerot = 16
+Teophile Nael = 12+1 = 13
+Ivan Domingues = 1
+Ugo Ugochukwu = 36+3 = 39
+Enzo Deligny = 5
+Enzo Peugeot = 13
+Nikita Bedrin = 13+2 = 15
+Matteo De Palo = 3
+Nicola Lacorte = 1
+
+Randoms = 13
+SOF = 323
