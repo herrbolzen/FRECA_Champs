@@ -20,7 +20,7 @@ with open("data.csv") as file:
     element : int # Used in for loop later
     count : int = 1 # Used in for loop later
 
-    for row in reader:
+    for row in reader: # Assign variables with their values
         driver = (row[1])
         win_amnt = float(row[2])
         pod_amnt = float(row[3])
@@ -36,27 +36,28 @@ with open("data.csv") as file:
             season_mult = 0.8
         elif (season == 5):
             season_mult = 0.6
-        elif (season ==1):
-            season_mult = 1.2
 
+        # Final scores
         pole_sc = (pole_amnt * pole_mult)*season_mult
         pod_sc = (pod_amnt * pod_mult)*season_mult
         win_sc = (win_amnt * win_mult)*season_mult
 
+        # Calculate Elo before rounding, then round it
         elo_br = float((win_sc + pod_sc + pole_sc)/race_amnt)*sof
         elo = round(elo_br, 2)
 
+        # Add new drivers to dictionary
         if driver is not driver_elo:
             driver_elo[driver] = []
         driver_elo[driver] = elo
 
-
+    # Sort dictionary
     sorted_elo = sorted(driver_elo.items(), key=lambda item: item[1], reverse = True)
 
+    # Print results
     print()
     print("Ranked by Elo")
     print("Pos.", "Name", " ", " "," ", " "," ", "|", "Elo")
-
     for element in sorted_elo:
         print(count, ".", element[0], "|", element[1])
         count += 1
