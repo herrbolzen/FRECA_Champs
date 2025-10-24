@@ -1,6 +1,6 @@
 import csv
 
-# Add 2025 to Super Licence system
+# RANK DRIVERS BY GAP TO 2ND, 3RD
 
 with open("data.csv") as file:
     reader = csv.reader(file)
@@ -68,5 +68,3 @@ with open("data.csv") as file:
     for element in sorted_elo:
         print(count, ".", element[0], "|", element[1])
         count += 1
-
-
