@@ -1,6 +1,6 @@
 import csv
 
-# Add 2025 to Super Licence system
+# RANK DRIVERS BY STRENGTH OF FIELD
 
 with open("data.csv") as file:
     reader = csv.reader(file)
@@ -62,5 +62,3 @@ with open("data.csv") as file:
         print(count, ".", element[0], "|", element[1])
         count += 1
     print()
-
-    #asdkasmasm
