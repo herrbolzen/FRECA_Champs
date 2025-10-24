@@ -53,6 +53,7 @@ with open("data.csv") as file:
         elo_br = float((win_sc + pod_sc + pole_sc) / race_amnt) * (gap2_sc+gap3_sc)
         elo_ar = round(elo_br, 2)
 
+        # Add new drivers to dictionary
         if driver is not driver_elo:
             driver_elo[driver] = []
         driver_elo[driver] = elo_ar
