@@ -29,6 +29,7 @@ M Siebert = 2
 Randoms: 7x1 = 7 SOF Points
 
 SOF = 271+7 = 278
+2024 UPDATED
 ---------------------------------------------------------------------------------------------------------
 2020, Gianluca Petecof, 4, 14, 24,
 2021, Gregoire Saucy, 8, 10, 20,
@@ -51,6 +52,7 @@ Matteo Nannini = 12
 Randoms = 8
 
 SOF = 255
+2024 UPDATED
 ---------------------------------------------------------------------------------------------------------
 2021 SAUCY
 Hadrien David = 12+1+1+7+10 = 31
@@ -70,6 +72,7 @@ E Barrichello =
 19 randoms
 
 SOF = 655
+2024 UPDATED
 ---------------------------------------------------------------------------------------------------------
 2022 Beganovich
 Gabriele Mini = 78
@@ -93,6 +96,7 @@ Matias Zagazeta = 10
 15 Randoms
 
 SOF = 555
+2024 UPDATED
 ---------------------------------------------------------------------------------------------------------
 2023 Antonelli
 
@@ -113,6 +117,7 @@ Matias Zagazeta = 10
 Randoms = 17
 SOF = 339
 
+2024 UPDATED
 ---------------------------------------------------------------------------------------------------------
 2024 Camara
 
@@ -132,5 +137,28 @@ Nikita Bedrin = 13+2 = 15
 Matteo De Palo = 3
 Nicola Lacorte = 1
 
+2025 UPDATED
+
 Randoms = 13
-SOF = 323
+SOF = 374
+---------------------------------------------------------------------------------------------------------
+2025 Slater
+
+Matteo De Palo = 23
+Evan Giltaire = 22
+Pedro Clerot = 26
+Nikita Bedrin = 15
+Enzo Deligny = 24
+Akshay Bohra = 37
+Taito kato = 15
+Rashid Al Dhaheri = 21
+Hiyu Yamakoshi = 16
+Jin Nakamura = 27
+Dion Gowda = 5
+Jack Beeton = 22
+Michael Belov = 15
+Randoms = 14
+
+SOF = 300
+
+2025 UPDATED
